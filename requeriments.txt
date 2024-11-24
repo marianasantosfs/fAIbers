@@ -1,0 +1,11 @@
+shapely
+pyproj
+boto3
+botocore
+reportlab
+matplotlib
+numpy
+maths
+datetime
+os
+logging
